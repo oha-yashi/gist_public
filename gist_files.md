@@ -1,5 +1,9 @@
-[:contents]
+<!-- [:contents] はてなブログ用目次タグ -->
+# Gistまとめ
+Gistに置いたものをここにまとめる。`#`で階層を表す。
+
 # slot
+スロットゲーム
 ## slot.c
 https://gist.github.com/oha-yashi/513fddf7e85a2fedff44d34b3c9e68dc
 ## define.h
