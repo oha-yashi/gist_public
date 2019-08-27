@@ -5,7 +5,7 @@ Gistに置いたものをここにまとめる。`#`でディレクトリを表�
 # slot
 スロットゲーム
 > slot.c
-> https://gist.github.com/oha-yashi/513fddf7e85a2fedff44d34b3c9e68dc
+> https://gist.github.com/oha-yashi/a04e89335fc1c6b64c009deb2884a40d
 >
 > define.h
 > https://gist.github.com/oha-yashi/4ebe213cc85770e9c9d93d3be5a0e1bf
