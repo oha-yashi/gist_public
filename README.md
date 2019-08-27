@@ -12,3 +12,7 @@ Gistに置いたものをここにまとめる。`#`でディレクトリを表�
 >
 > makefile
 > https://gist.github.com/oha-yashi/6d5557edcc72c0bb080b580e055eadec
+
+# 行番号付加
+> 即席
+> https://gist.github.com/oha-yashi/5835099402768dcec426bcf31100a62f
